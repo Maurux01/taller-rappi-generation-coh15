@@ -66,10 +66,7 @@ console.log(`Nombre de cliente en recibo: ${bill.cliente}`);
 console.log(`Tu pedido cambio de estado de ${bill.pedido} a ${bill.nuevoEstado}` );
 console.log("")
 console.log("===============================Factura del pedido========================================");
-console.log(`Subtotal: ${subtotal}`);
-console.log(`Domicilio: ${domicilio}`);
-console.log(`Propina: ${propina}`);
-console.log(`El total a pagar por tu pedido ${name} es ${total}`);
-
-
-
+console.log(`Subtotal: $ ${subtotal}`);
+console.log(`Domicilio: $ ${domicilio}`);
+console.log(`Propina: $ ${propina}`);
+console.log(`El total a pagar por tu pedido ${name} es $ ${total}`);
