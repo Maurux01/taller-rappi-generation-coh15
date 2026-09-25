@@ -1,3 +1,3 @@
-# js-training
+# Rappy excersive, cohorte 15
 
-Javascript training space for generation colombia bootcamp 2026
+Solution for the rappy excersive, made in js by mauro infante/maurux01
